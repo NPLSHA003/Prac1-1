@@ -7,7 +7,7 @@
  * 
  * <NDLSIM016> <NPLSHA003>
  * Date
-*/ <2021/08/18>
+*/ //<2021/08/18>
 
 #include <signal.h> //for catching signals
 #include <wiringPi.h>
